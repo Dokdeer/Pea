@@ -14,37 +14,37 @@ cl = LINETCR.LINE()
 cl.login(token="EplILuGSz6UjrDTqEAx1.Vm537HvN52AR3XEMBzrY8q.8iSDoqCBWCQLI9KUfqsSzw5P60QawbBd0GkYfuaUano=")
 cl.loginResult()
 
-ki1 = LINETCR.LINE()
-ki1.login(token="EpmOYWr67hsJRnvUGTo8.a+rBQmFDhr1h0p9rGxiSIa.lmVkvVKuSCAHcLwqFd0Td6BRxy6VVq+BHknZFREwBAo=")
-ki1.loginResult()
+#ki1 = LINETCR.LINE()
+#ki1.login(token="EpmOYWr67hsJRnvUGTo8.a+rBQmFDhr1h0p9rGxiSIa.lmVkvVKuSCAHcLwqFd0Td6BRxy6VVq+BHknZFREwBAo=")
+#ki1.loginResult()
 
-ki2 = LINETCR.LINE()
-ki2.login(token="EprSw5HbIJibZwwGuje7.IIl6mGXQgEk8ta+Far31nW.uev7anyaWYKZGqbGUekKgLVeXIReOhlcbfHM+uA2lIc=")
-ki2.loginResult()
+#ki2 = LINETCR.LINE()
+#ki2.login(token="EprSw5HbIJibZwwGuje7.IIl6mGXQgEk8ta+Far31nW.uev7anyaWYKZGqbGUekKgLVeXIReOhlcbfHM+uA2lIc=")
+#ki2.loginResult()
 
-ki3 = LINETCR.LINE()
-ki3.login(token="EpfO3E8Myz59xiG8rKfe.LPgn05IlcysG9sAiVov3lG.2Ki7yTz0z9WPHMhdbnmt00SXuuAKyICzBnABew8CY+0=")
-ki3.loginResult()
+#ki3 = LINETCR.LINE()
+#ki3.login(token="EpfO3E8Myz59xiG8rKfe.LPgn05IlcysG9sAiVov3lG.2Ki7yTz0z9WPHMhdbnmt00SXuuAKyICzBnABew8CY+0=")
+#ki3.loginResult()
 
-ki4 = LINETCR.LINE()
-ki4.login(token="EpcjLLTVF8M4A9AFXaE6.eCdIeiSEm0x1PuIauB0LbG.chuxXw73S6zsUvIB7yRCzrpFQxXBIjmzwUj9IXRayGQ=")
-ki4.loginResult()
+#ki4 = LINETCR.LINE()
+#ki4.login(token="EpcjLLTVF8M4A9AFXaE6.eCdIeiSEm0x1PuIauB0LbG.chuxXw73S6zsUvIB7yRCzrpFQxXBIjmzwUj9IXRayGQ=")
+#ki4.loginResult()
 
-ki5 = LINETCR.LINE()
-ki5.login(token="EpzIxYLMkTQZXX1Eqi53.1qhCVCUIIygqKgymwtiEeW.SxRK2ZezfvcyE3m4bBFuaEQquzkgjfIhYkvI5xt7+wc=")
-ki5.loginResult()
+#ki5 = LINETCR.LINE()
+#ki5.login(token="EpzIxYLMkTQZXX1Eqi53.1qhCVCUIIygqKgymwtiEeW.SxRK2ZezfvcyE3m4bBFuaEQquzkgjfIhYkvI5xt7+wc=")
+#ki5.loginResult()
 
-ki6 = LINETCR.LINE()
-ki6.login(token="EpOqHeHBBE9yMwcoNTc1.H9GWl+rGnkTSNudoN4XIeq.cumXNbrS8ARBM770C+nvNL7j86Sfvi+bYXoFTcO30Zk=")
-ki6.loginResult()
+#ki6 = LINETCR.LINE()
+#ki6.login(token="EpOqHeHBBE9yMwcoNTc1.H9GWl+rGnkTSNudoN4XIeq.cumXNbrS8ARBM770C+nvNL7j86Sfvi+bYXoFTcO30Zk=")
+#ki6.loginResult()
 
-ki7 = LINETCR.LINE()
-ki7.login(token="EpnFk4qQ8fdPWlOiYD14.ohDmfNtxrs7njvwN+MIsXa.b/FhwMlTGkRCNk0/2K71PXU/XGrTSeo3KIuaR31h+nA=")
-ki7.loginResult()
+#ki7 = LINETCR.LINE()
+#ki7.login(token="EpnFk4qQ8fdPWlOiYD14.ohDmfNtxrs7njvwN+MIsXa.b/FhwMlTGkRCNk0/2K71PXU/XGrTSeo3KIuaR31h+nA=")
+#ki7.loginResult()
 
-ki8 = LINETCR.LINE()
-ki8.login(token="EpJ7mKhwVDy1xs8Q9yCc.X+j/Aad8TvAy5X/6gt1u+a.b+dXWhCQViqRrKAQOj1PZS9aCykXQILPiwGPlqE2G3A=")
-ki8.loginResult()
+#ki8 = LINETCR.LINE()
+#ki8.login(token="EpJ7mKhwVDy1xs8Q9yCc.X+j/Aad8TvAy5X/6gt1u+a.b+dXWhCQViqRrKAQOj1PZS9aCykXQILPiwGPlqE2G3A=")
+#ki8.loginResult()
 
 #ki9 = LINETCR.LINE()
 #ki9.login(token="EoluRsFVIBC6WfNecGja.XeTFQ55WYwSmXh4n0wOhcG.Zl36VJU8INIcSFmmXsMSXyUZW+gbjmQTgE6LxBQpCa4=")
@@ -61,38 +61,38 @@ helpMessage ="""     ─┅═✥FUCK-U-BOT✥═┅─
 
 ─┅═✥ᴛʜᴀɪʟᴀɴᴅ✥═┅─
                      
-❂͜͡☆➣ 『Me』
-❂͜͡☆➣ 『Id』
-❂͜͡☆➣ 『Wc』
+❂͜͡☆➣ 『คท』
+❂͜͡☆➣ 『ไอดี』
+❂͜͡☆➣ 『ตั้งเข้า』
 ❂͜͡☆➣ 『Mc:』
 ❂͜͡☆➣ 『Mid』
 ❂͜͡☆➣ 『BBc:』
-❂͜͡☆➣ 『Gift』
+❂͜͡☆➣ 『แจก』
 ❂͜͡☆➣ 『Mid @』
-❂͜͡☆➣ 『Cn: Display Name』
+❂͜͡☆➣ 『ชื่อ:』
 ❂͜͡☆➣ 『Cc: Clock Name』
-❂͜͡☆➣ 『Hack @』
-❂͜͡☆➣ 『Tl: text』
-❂͜͡☆➣ 『Auto join: on/off』
-❂͜͡☆➣ 『Auto add: on/off』
-❂͜͡☆➣ 『Auto leave: on/off』
+❂͜͡☆➣ 『ข้อมูล @』
+❂͜͡☆➣ 『ทามไลน์』
+❂͜͡☆➣ 『เข้า on/off』
+❂͜͡☆➣ 『แอด on/off』
+❂͜͡☆➣ 『แชท on/off』
 ❂͜͡☆➣ 『Clock: on/off』
-❂͜͡☆➣ 『Share on』
-❂͜͡☆➣ 『Add message: text』
+❂͜͡☆➣ 『ประกาศ on』
+❂͜͡☆➣ 『คอมเม้น: text』
 ❂͜͡☆➣ 『Message:』
 ❂͜͡☆➣ 『Add comment: text』
 ❂͜͡☆➣ 『Comment: 』
 ❂͜͡☆➣ 『Cbroadcast text』
 ❂͜͡☆➣ 『Gbroadcast text』
-❂͜͡☆➣ 『Reject』
-❂͜͡☆➣ 『Creator 』
-❂͜͡☆➣ 『Gn: text 』
+❂͜͡☆➣ 『ลบรัน』
+❂͜͡☆➣ 『ผส 』
+❂͜͡☆➣ 『ชื่อกลุ่ม: text 』
 ❂͜͡☆➣ 『Invite:on 』
 ❂͜͡☆➣ 『Invite: mid』 
 ❂͜͡☆➣ 『Allgift 』
 ❂͜͡☆➣ 『All mid』
-❂͜͡☆➣ 『Cancel』
-❂͜͡☆➣ 『Link on/off』
+❂͜͡☆➣ 『ยก』
+❂͜͡☆➣ 『ลิ้ง on/off』
 ❂͜͡☆➣ 『Spam on/off』
 ❂͜͡☆➣ 『ginfo』
 ❂͜͡☆➣ 『Myginfo』
@@ -107,24 +107,24 @@ helpMessage ="""     ─┅═✥FUCK-U-BOT✥═┅─
 ❂͜͡☆➣ 『Cinta』
 ❂͜͡☆➣ 『Sayang: 』
 ❂͜͡☆➣ 『P:ulang』
-❂͜͡☆➣ 『Ban @』
+❂͜͡☆➣ 『แบน @』
 ❂͜͡☆➣ 『Uban @』
 ❂͜͡☆➣ 『Ban 』
 ❂͜͡☆➣ 『Unban』
 ❂͜͡☆➣ 『Comment :』
 ❂͜͡☆➣ 『Banlist』
-❂͜͡☆➣ 『Cekban』
+❂͜͡☆➣ 』
 ❂͜͡☆➣ 『Clear ban』
 ❂͜͡☆➣ 『Kill @ Fuck @』
 ❂͜͡☆➣ 『Speed / Sp』
 ❂͜͡☆➣ 『Hack @2@3@4』
 ❂͜͡☆➣ 『Ambilin @』
 ❂͜͡☆➣ 『Sampul @』
-❂͜͡☆➣ 『Copy @』
-❂͜͡☆➣ 『Mycopy @』
+❂͜͡☆➣ 『เลียนแบบ @』
+❂͜͡☆➣ 『Mycoppy @』
 ❂͜͡☆➣ 『Keluar :@』
 ❂͜͡☆➣ 『music』
-❂͜͡☆➣ 『.reboot』
+❂͜͡☆➣ 『รีบอท』
 ❂͜͡☆➣ 『Wikipedia』
 ❂͜͡☆➣ 『Cleanse』
 ❂͜͡☆➣ 『Bot Speed』
